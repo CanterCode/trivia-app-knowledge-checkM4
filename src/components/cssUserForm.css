@@ -1,0 +1,48 @@
+form {
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 2em;
+    background-color: #faf7f7;
+}
+
+fieldset {
+    border: 0px;
+    margin: 1em;
+    padding: 0px;
+}
+
+label {
+    font-size: 1em;
+    padding: .5em;
+    margin: .5em;
+}
+
+input {
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+}
+
+select {
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+}
+
+button {
+    font-size: 1em;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    background-color: #f9f9f9;
+}
+
+button:hover {
+    background-color: #ccc;
+}
